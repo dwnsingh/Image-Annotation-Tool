@@ -1,6 +1,10 @@
 # Image-Annotation-Tool
 this annotation software can be used to annotate different objects in images 
 
+<b>REQUIREMENTS</b><br>
+python<br>matplotlib<br>tkinter<br>pandas
+
+
 <b>MOTIVATION</b>
 
 In one of my previous project i worked on object detection in floor plan images. Most laborious and time consuming task in this project was to create the annotation of images. We have to annotate each object in an image manually and store their coordinates and label in an xml file .we used some tools like "labelme" but on average you would have spend at least 2 minute per image for annotation and with this speed you would be able to annotate at best 30 images in an hour. now you can imagine how much tedious task it is.<br>
