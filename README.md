@@ -9,7 +9,7 @@ python<br>matplotlib<br>tkinter<br>pandas
 
 In one of my previous project i worked on object detection in floor plan images. Most laborious and time consuming task in this project was to create the annotation of images. We have to annotate each object in an image manually and store their coordinates and label in an xml file .we used some tools like "labelme" but on average you would have spend at least 2 minute per image for annotation and with this speed you would be able to annotate at best 30 images in an hour. now you can imagine how much tedious task it is.<br>
 we developed a software to reduce the time and which makes the whole task much easier and efficient.<br>
-we have integrated the model we got after the training with software which read an image and predict the output classes in an object. model may predict few objects wrongly and may not be able to predict the few objects at all it depends on the accuracy of your model. but with the software you can delete wrongly identify objects and correct them and also draw the unidentified objects as well. model will automatically generate the xml annotation file.
+we integrated the model we trained in the project https://github.com/dwnsingh/Object-Detection-in-Floor-Plan-Images with software which read an image and recognize the objects in the image. model may predict few objects wrongly and may not be able to predict the few objects at all it depends on the accuracy of your model. but with the software you can delete wrongly identify objects and correct them and also draw the unidentified objects as well. model will automatically generate the xml annotation file.
 
 <h3>FEATURES</h3>
 
