@@ -1,5 +1,7 @@
-# Image-Annotation-Tool
-this annotation software can be used to annotate different objects in images 
+# <span text-align='center'>TrainMe:</span>
+
+<h1>Annotation Tool for Training A Deep Neural Network Model for Floor Plan Image Analysis</h1>
+ 
 
 <h3>REQUIREMENTS</h3><br>
 python<br>matplotlib<br>tkinter<br>pandas
