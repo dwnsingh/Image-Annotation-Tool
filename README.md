@@ -1,6 +1,6 @@
-# <span text-align='center'>TrainMe:</span>
+# TrainMe:
 
-<h1>Annotation Tool for Training A Deep Neural Network Model for Floor Plan Image Analysis</h1>
+<h2>Annotation Tool for Training A Deep Neural Network Model for Floor Plan Image Analysis</h2>
  
 
 <h3>REQUIREMENTS</h3><br>
